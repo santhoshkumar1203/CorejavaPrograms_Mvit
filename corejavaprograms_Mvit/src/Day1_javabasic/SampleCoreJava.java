@@ -11,7 +11,7 @@ public class SampleCoreJava {
 		c=a+b;
 		System.out.println("Addition of a ="+a+"and b="+b+"is:"+c);
 		c=a-b;
-		System.out.println("subraction of a ="+a+"and b="+b+"is:"+c);
+		System.out.println("subraction5 of a ="+a+"and b="+b+"is:"+c);
 	
 
 	}
